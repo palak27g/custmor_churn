@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import pandas as pd
 import joblib
 import logging
-import shap
+
 import numpy as np
 
 
